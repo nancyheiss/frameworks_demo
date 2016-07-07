@@ -14,3 +14,5 @@ nosetests -v PythonOrgSearch.py --processes=4 --process-timeout=120
 Shout out to the folks who developed the Python Selenium bindings and provided a wonderful tutorial on Page Objects, where most of this code originated:
 
 http://selenium-python.readthedocs.io/page-objects.html
+
+(PS - The slides from the presentation are in the Test Automation Frameworks.key file)
